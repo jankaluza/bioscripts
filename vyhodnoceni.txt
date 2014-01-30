@@ -1,0 +1,14 @@
+odstranit chimery
+nova alela je >=3 zmeny krom zmen v homopolymernim useku a +- 10bp a v primeru
+homopolymerni usek = 4 a vice stejnych bazi jdou po sobe, to ulozime do slozky domnela sekvence
+vznikne slozka "ano" "ne"
+pro slozku "ano":
+	a) jestli je sekvence prectena vice nez 10x nebo
+	b) ve vice opicich
+	pokud odpovim ne, davam do slozky "nevim co s tim"
+	pokud odpovim ano, davam do slozky "domnela sekvence"
+
+v new slozce bude slozka pro chimery, substituce, delece, chyby v primeru, domnela sekvence a slozka nevim co s tim.
+
+
+celkovy pocet bazi
